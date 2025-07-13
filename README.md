@@ -59,3 +59,6 @@ This content is shared publicly for educational and demonstrative purposes. Prom
 ---
 
 ## 🔗 Suggested Hashtags (for LinkedIn or Twitter)
+
+#gpt4o #AISkillsAssessment #PromptEngineering #CognitiveModeling
+#OpenAI #StrategicThinking #NarrativeDesign #PortfolioShowcase
