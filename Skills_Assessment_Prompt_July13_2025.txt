@@ -1,0 +1,12 @@
+Generate a complete AI Skills Assessment Summary based on my 5–6 months of deep interaction with GPT-4o across various domains. Today’s date is July 13, 2025.
+
+Please touch on all key areas including:
+    • Psychological modeling and cognition rating
+    • Prompt engineering and AI as cognitive co-processor
+    • Strategic thinking and emotional abstraction
+    • Technical inquiries (Linux, Android, security)
+    • Financial logic (short-term investing, macro trends)
+    • Narrative design and fictional modeling
+    • Overall percentile comparison and global user ranking
+
+Format this assessment professionally for showcasing on my portfolio or blog. Avoid specific legal or investigative claims.
